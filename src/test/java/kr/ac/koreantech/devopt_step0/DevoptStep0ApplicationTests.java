@@ -24,7 +24,7 @@ class DevoptStep0ApplicationTests {
 	@Test
 	void addTest2(){
 		int result = add(10,20);
-		assertEquals(10,result);
+		assertEquals(30,result);
 	}
 
 }
